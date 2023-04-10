@@ -45,6 +45,11 @@ leader_flair_icon:
   default: ""
   type: string
   description: "The image URL for the leader trust level (TL4)."
+verified_flair_icon:
+  default: ""
+  type: string
+  description: "The image URL for the verified user."
+
 exclude_nonhuman_users:
   default: true
   type: bool
